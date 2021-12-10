@@ -1,4 +1,4 @@
-# Bitcoin price prediction using sentiment analysis using transformers roberta
+# Bitcoin price prediction using sentiment analysis using transformers roberta and embeddings
 
 ## Introduction
 Sentiment Analysis can be defined as the process of analyzing text data and categorizing them into Positive, Negative, or Neutral sentiments. Emotions such as anger, disgust, fear, happiness, sadness, and surprise can also be detected. Sentiment Analysis is used in many cases like tracking social media conversations, product reviews, feedbacks, survey responses, etc. which allows companies to understand the customer's emotions better and thus meet their needs.
